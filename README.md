@@ -2,7 +2,7 @@
 
 Welcome to **Dropify**, an efficient and futuristic delivery service website UI built with **Bootstrap 4.6**. Dropify aims to provide fast, reliable, and convenient delivery services, powered by technology and innovative solutions like **robotic drivers**. This project demonstrates a sleek and modern website layout with a responsive navigation bar, engaging content, and well-structured sections. Feel free to clone, fork, or contribute to this project.
 
-![Dropify Preview](link-to-your-screenshot-or-gif-here)
+![Dropify Preview](https://raw.githubusercontent.com/Sakshi-2508/Dropify-Website-UI/refs/heads/master/screenshot/Screenshot%202024-09-26%20115212.png)
 
 ## Features
 - **Responsive Design**: Optimized for different screen sizes (desktop, tablet, mobile).
@@ -53,5 +53,3 @@ Email: sakshi.angre.1999@gmail.com
 - Replace the links to demo, screenshots, and GitHub profiles with your actual content.
 - Add a live demo link if applicable.
 - Feel free to tweak sections to reflect additional features you might want to highlight.
-
-This README will help give visitors a clear understanding of your project, its purpose, and how to use or contribute to it.
